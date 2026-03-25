@@ -37,10 +37,6 @@ Retail analytics project with SQL queries and Power BI/Tableau dashboards for sa
 > **Tools:** SQL · Power BI · Tableau
 [View Project →](https://github.com/vaishnavi-git1205/RetailPulse-Analytics-Project)
 
----
-
-## 📫 Connect with me
-- LinkedIn: [Ad# Hi, I'm Vaishnavi 👋
 
 **Data & Business Analyst** | Hyderabad, India
 
